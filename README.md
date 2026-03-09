@@ -1,11 +1,8 @@
-# 📦 Amazon Data Mining & Recommendation System Project
+# Amazon Data Mining & Recommendation System Project
 
-## 📌 Giới thiệu
+## Giới thiệu
 
-Đây là **bài tập lớn** phục vụ cho môn học:
-
-- **Khai phá dữ liệu lớn**
-- **Hệ khuyến nghị**
+Đây là **bài tập lớn** phục vụ cho môn học trên trường
 
 Dự án sử dụng **bộ dữ liệu Amazon** nhằm nghiên cứu, phân tích và áp dụng các kỹ thuật khai phá dữ liệu cũng như xây dựng hệ thống khuyến nghị sản phẩm.
 
@@ -20,34 +17,35 @@ README này hiện chỉ mang tính **giới thiệu tổng quan**. Các nội d
 
 ---
 
-## 🗂️ Dữ liệu
+## Dữ liệu
 
 - Nguồn dữ liệu: **Amazon Dataset**
 - Chi tiết về tập dữ liệu và cách xử lý sẽ được bổ sung sau.
 
 ---
 
-## 🛠️ Công nghệ & Công cụ
+## Công nghệ & Công cụ
+
+- PySpark
+*(Sẽ cập nhật)*
+
+---
+
+## Nhóm thực hiện
 
 *(Sẽ cập nhật)*
 
 ---
 
-## 👥 Nhóm thực hiện
-
-*(Sẽ cập nhật)*
-
----
-
-## 📅 Tiến độ
+## Tiến độ
 
 - [x] Khởi tạo dự án
-- [ ] Phân tích dữ liệu
+- [x] Phân tích dữ liệu
 - [ ] Xây dựng mô hình
 - [ ] Đánh giá & báo cáo
 
 ---
 
-## 📄 License
+## License
 
 Dự án sử dụng **MIT License**.
